@@ -30,8 +30,7 @@ class LoginForm(FlaskForm):
     email = StringField('Email',
                         validators=[DataRequired(), Email()])
     password = PasswordField('Password', validators=[DataRequired()])
-    remember = BooleanField(
-        'Remember Me')  # To let the user stayed logged in, in case of web browser closed for a period of time
+    remember = BooleanField('Remember Me')  # To let the user stayed logged in, in case of web browser closed for a period of time
     submit = SubmitField('Login')
 
 

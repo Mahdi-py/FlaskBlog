@@ -29,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bQD1QoK4sc0ljrwv4AIuzd03Li" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -172,7 +176,7 @@
       <workItem from="1588881636821" duration="15606000" />
       <workItem from="1589090333270" duration="3628000" />
       <workItem from="1589146472487" duration="743000" />
-      <workItem from="1589147234625" duration="13991000" />
+      <workItem from="1589147234625" duration="19798000" />
     </task>
     <servers />
   </component>
@@ -192,22 +196,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="247" y="391" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589266772242" />
-    <state width="914" height="201" key="GridCell.Tab.0.bottom" timestamp="1589326681093">
+    <state x="570" y="285" key="FileChooserDialogImpl" timestamp="1589414123145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589326681093" />
-    <state width="914" height="201" key="GridCell.Tab.0.center" timestamp="1589326681093">
+    <state x="570" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589414123145" />
+    <state width="928" height="201" key="GridCell.Tab.0.bottom" timestamp="1589414038815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="201" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589326681093" />
-    <state width="914" height="201" key="GridCell.Tab.0.left" timestamp="1589326681093">
+    <state width="928" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589414038795" />
+    <state width="928" height="201" key="GridCell.Tab.0.center" timestamp="1589414038795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="201" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589326681093" />
-    <state width="914" height="201" key="GridCell.Tab.0.right" timestamp="1589326681093">
+    <state width="928" height="201" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589414038795" />
+    <state width="928" height="201" key="GridCell.Tab.0.left" timestamp="1589414038785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="201" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589326681093" />
+    <state width="928" height="201" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589414038785" />
+    <state width="928" height="201" key="GridCell.Tab.0.right" timestamp="1589414038795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="201" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589414038795" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1588742035229">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
